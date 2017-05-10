@@ -22,6 +22,7 @@ namespace WorkHours
             {
                 Console.WriteLine($"{hoursNeeded - actualHours} overtime");
                 Console.WriteLine($"Penalties: {(hoursNeeded - actualHours) * days}");
+                Console.WriteLine("Making changes in master branch");
             }
         }
     }
