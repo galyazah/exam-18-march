@@ -19,6 +19,7 @@ namespace DogHouse
             double redPaint = roofArea / 5;
             Console.WriteLine(greenPaint.ToString("f2"));
             Console.WriteLine(redPaint.ToString("f2"));
+            Console.WriteLine("Creating a conflict now");
         }
     }
 }
