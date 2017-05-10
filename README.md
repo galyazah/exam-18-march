@@ -1,2 +1,2 @@
 # exam-18-march
-6 projects
+this is a test repository containing 6 projects - an exam issues
